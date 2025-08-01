@@ -1,10 +1,10 @@
 # Connectome Explorer
+<img src="https://img.shields.io/badge/language-Python-blue.svg" style="zoom:100%;" />
+
 This is a Python-based tool used for fetching, analyzing, and visualizing protein-protein interaction networks
 using data from the STRING database. 
 
 The goal of this tool is to help explore biological connectivity in Homo sapiens through an interactive graph representation.
-
-<img src="https://img.shields.io/badge/language-Python-blue.svg" style="zoom:100%;" />
 
 ## Features
 <li>Uses the STRING API to fetch any human protein data</li>
