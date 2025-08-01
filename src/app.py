@@ -4,7 +4,7 @@ from visualizer import visualize_graph
 
 def main():
     # Step 1: Ask the user for a protein ID
-    protein_id = input("🔍 Enter a protein ID (e.g., TP53): ").strip()
+    protein_id = input("Enter a protein ID (e.g., TP53): ").strip()
     if not protein_id:
         print("Invalid protein ID entered, please try again.")
         return
