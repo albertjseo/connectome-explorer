@@ -15,13 +15,13 @@ using data from the STRING database. The goal of this tool is to help explore bi
 connectome-explorer/
 │
 ├── src/
-│   ├── app.py               # Main entry point
+│   ├── app.py               # Main
 │   ├── data_loader.py       # Fetches data from STRING API
 │   ├── network_builder.py   # Builds NetworkX graph
 │   ├── visualizer.py        # Visualizes the graph
 │
 ├── test.py                  # Simple test script
-├── requirements.txt         # Python dependencies
+├── requirements.txt         # Dependencies
 ├── README.md                # Project documentation
 └── .gitignore               # Files to ignore in version control
 </pre>
